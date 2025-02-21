@@ -109,6 +109,14 @@ print("Python".endswith("on"))
 
 
 
+# practice questions
+
+# write a program to input's users name and print its lenght
+firstName = input("enter your first name");
+print("your name lenght is:" , len(firstName))
 
 
+# write a program to find the occurrence of "$" in string
+dollarString = "$ is the dollar. and the $78.99 and $98.99"
+print("dollar lenght is:" , dollarString.count("$"))
 
